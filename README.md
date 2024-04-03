@@ -1,2 +1,4 @@
 # Lab-Week-1
-Creating a GitHub User Page for this GitHub account.
+Pranav Prabu's User Page
+
+My favorite language is Python, since it's easy to use.

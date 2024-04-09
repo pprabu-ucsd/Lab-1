@@ -65,6 +65,23 @@ So far, Lab 1 is now done, but I can use this as a checklist for the remaining l
 
 #### Pictures and Relative Links
 
+[git clone](screenshots/git-clone.jpg)
+![git_clone](screenshots/git-clone.jpg)
+
+[Branch Setup](screenshots/git-branch.jpg)
+![git_branch](screenshots/git-branch.jpg)
+
+[Adding Text](screenshots/nano.jpg)
+![nano](screenshots/nano.jpg)
+
+[git add](screenshots/git-add.jpg)
+![git_add](screenshots/git-add.jpg)
+
+[git commit](screenshots/git-commit.jpg)
+![git_commit](screenshots/git-commit.jpg)
+
+[git push](screenshots/git-push.jpg)
+![git_push](screenshots/git-push.jpg)
 
 [VSCode Portion of the Lab (.gitignore not in the main branch, but the vscode branch)](screenshots/vscode.jpg)
 ![vscode branch](screenshots/vscode.jpg)

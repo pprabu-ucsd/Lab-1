@@ -67,4 +67,5 @@ So far, Lab 1 is now done, but I can use this as a checklist for the remaining l
 
 
 [VSCode Portion of the Lab (.gitignore not in the main branch, but the vscode branch)](screenshots/vscode.jpg)
+![vscode branch](screenshots/vscode.jpg)
 

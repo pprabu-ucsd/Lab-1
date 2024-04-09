@@ -65,8 +65,8 @@ So far, Lab 1 is now done, but I can use this as a checklist for the remaining l
 
 #### Pictures and Relative Links
 
-[git clone](screenshots/git-clone.jpg)
-![git_clone](screenshots/git-clone.jpg)
+[git clone](screenshots/git_clone.jpg)
+![git_clone](screenshots/git_clone.jpg)
 
 [Branch Setup](screenshots/git-branch.jpg)
 ![git_branch](screenshots/git-branch.jpg)

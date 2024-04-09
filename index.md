@@ -16,12 +16,15 @@ Page must include the following:
 ## Name: Pranav Prabu
 ### PID: A17424120
 
-I am an **avid programmer**, working with _ _several languages_ _ like ***Python, C, C++, Java, and more***. I am so bored and tired and hungry and what do I do now.
+I am an **avid programmer**, working with _ _several languages_ _ like ***Python, C, C++, Java, and more***. I love to read, but when programming, I have a tendency to kind of wing my assignments, leading to a lot of hassle at times. However, those experiences help me learn to be better with my time.
 
 My favorite language is
 
 > C++
 
 I feel like what defines me as a person is:
-```My perseverance and willingness to problem-solve?```
+```My perseverance and willingness to problem-solve.```
+
+[VSCode Portion of the Lab (.gitignore not in the main branch, but the vscode branch)](screenshots/vscode.jpg)
+
 

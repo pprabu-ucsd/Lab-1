@@ -16,6 +16,8 @@ Page must include the following:
 ## Name: Pranav Prabu
 ### PID: A17424120
 
+[Go to Images](https://github.com/pprabu-ucsd/Lab-1/blob/main/index.md#pictures-and-relative-links)
+
 I am an **avid programmer**, working with _ _several languages_ _ like ***Python, C, C++, Java, and more***. I love to read, but when programming, I have a tendency to kind of wing my assignments, leading to a lot of hassle at times. However, those experiences help me learn to be better with my time.
 
 My favorite language is
